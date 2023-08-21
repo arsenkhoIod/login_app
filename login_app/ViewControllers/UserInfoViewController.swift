@@ -7,7 +7,7 @@
 
 import UIKit
 
-class UserInfoViewController: UITabBarController {
+class UserInfoViewController: UIViewController {
     
     @IBOutlet var userPhotoIV: UIImageView!
     

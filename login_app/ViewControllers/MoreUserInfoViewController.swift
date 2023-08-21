@@ -7,7 +7,7 @@
 
 import UIKit
 
-class MoreUserInfoViewController: UITabBarController {
+class MoreUserInfoViewController: UIViewController {
     
     @IBOutlet var userInfoTV: UITextView!
     
